@@ -1,2 +1,2 @@
 # vue-learn
-the interest learn vue 
+记录vue学习中的点点滴滴
